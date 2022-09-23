@@ -1,3 +1,10 @@
+# Interfaz
+
+![buscador2](https://user-images.githubusercontent.com/71957876/191897647-66bcb54a-1385-4c0b-b147-9b424b53633e.JPG)
+
+![buscador1](https://user-images.githubusercontent.com/71957876/191897659-811dd67e-22b3-4acd-8901-6b9555db17f1.JPG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
